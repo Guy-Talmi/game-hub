@@ -1,0 +1,84 @@
+https://game-hub-beryl.vercel.app
+
+
+git remote add origin https://github.com/Guy-Talmi/game-hub.git
+git branch -M main
+git push -u origin main
+
+game-hub
+
+https://vitejs.dev/guide/static-deploy.html
+vercel.com
+
+npm run build
+---------------------------------------
+
+npm i react-icons@4.7.1
+Ctrl + t
+#Game
+
+211b572143124633b61bde17da1914f1
+
+ npm i axios
+
+npm create vite@4.1.0
+cd game-hub
+npm install
+npm run dev
+
+https://rawg.io/
+
+git init
+git add .
+git commit -m "Initial Commit"
+git log --oneline
+
+Chakra UI 
+https://chakra-ui.com/
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+
+Shift + Alt + Down Arrow
+
+Alt + Up Arrow
+Alt + Down Arrow
+
+zod.dev
+
+npm install @hookform/resolvers@2.9.11
+
+schema base validation
+Joi
+Yup
+Zod
+
+npm install zod@3.20.6
+
+
+nmp install react-hook-form@7.43
+div.mb-3>label.form-label+input.form-control
+
+react hook forms
+zod
+
+
+lorem 
+
+npm install immer@9.0.19
+
+node -v
+create react app (CRA)
+vite
+
+npm create vite@latest
+npm create vite@4.1.0
+
+cd react-app
+npm install
+npm run dev
+
+ http://localhost:5173/
+
+babeljs.io/repl
+
+npm install botstrap@5.2.3
